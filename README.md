@@ -1,4 +1,4 @@
-# The Atlantic
+# The Atlantic by Rado
 
 Construye una réplica del antiguo periódico norteamericano "The Atlantic".
 
